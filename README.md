@@ -1,9 +1,9 @@
 # My-Website-Repos
 These are file I used to create my website
 They contain-
-            *.firebase
+            -.firebase
                   3 hosting files
-             *dis
+             -dis
                 -css
                    -main.css
               
